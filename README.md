@@ -41,7 +41,7 @@ conda activate credit_card_fraud
         │
         ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
         │                         the creator's initials, and a short `-` delimited description, e.g.
-        │                         `1.0-jvelezmagic-initial-data-exploration`.
+        │                         `1.0-project-initial-data-exploration`.
         │
         ├── .gitignore         <- Files to ignore by `git`.
         │
